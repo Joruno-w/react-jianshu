@@ -76,6 +76,7 @@ export const SearchInfo = styled.div`
     left: 20px;
     top: 56px;
     padding: 5px 20px;
+    background: #fff;
     box-shadow: 0 0 8px rgba(0,0,0,.2);
 `;
 

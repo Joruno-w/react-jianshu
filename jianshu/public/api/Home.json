@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "data": {
+    "articleList": [
+      {
+        "id": "1",
+        "title": "《人生若只如初见》——林徽因",
+        "desc": "婚前，梁思成问林徽因：“有一句话，我只问这一次，以后都不会再问，为什么是我？”林徽因答：“答案很长，我得用一生去回答你，准备好听我了吗？",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/5467099-87bbdf549b1fd41d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": "2",
+        "title": "《人生若只如初见》——林徽因",
+        "desc": "婚前，梁思成问林徽因：“有一句话，我只问这一次，以后都不会再问，为什么是我？”林徽因答：“答案很长，我得用一生去回答你，准备好听我了吗？",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/5467099-87bbdf549b1fd41d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },      {
+        "id": "3",
+        "title": "《人生若只如初见》——林徽因",
+        "desc": "婚前，梁思成问林徽因：“有一句话，我只问这一次，以后都不会再问，为什么是我？”林徽因答：“答案很长，我得用一生去回答你，准备好听我了吗？",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/5467099-87bbdf549b1fd41d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": "4",
+        "title": "《人生若只如初见》——林徽因",
+        "desc": "婚前，梁思成问林徽因：“有一句话，我只问这一次，以后都不会再问，为什么是我？”林徽因答：“答案很长，我得用一生去回答你，准备好听我了吗？",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/5467099-87bbdf549b1fd41d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": "5",
+        "title": "《人生若只如初见》——林徽因",
+        "desc": "婚前，梁思成问林徽因：“有一句话，我只问这一次，以后都不会再问，为什么是我？”林徽因答：“答案很长，我得用一生去回答你，准备好听我了吗？",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/5467099-87bbdf549b1fd41d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": "6",
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-daily-e6f6601abc495573ad37f2532468186f.png"
+      },
+      {
+        "id": "7",
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+      },
+      {
+        "id": "8",
+        "imgUrl":"https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+        "id": "9",
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      }
+    ]
+  }
+}
