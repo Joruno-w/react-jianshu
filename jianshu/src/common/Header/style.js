@@ -8,9 +8,7 @@ export const HeaderWrapper = styled.div`
     border: 1px solid rgb(231,231,231);
 `;
 
-export const Logo = styled.a.attrs({
-    href: '/'
-})`
+export const Logo = styled.span`
     position: absolute;
     left: 0;
     top: 0;
@@ -29,12 +27,14 @@ export const Nav = styled.div`
     margin: 0 auto;
 `
 
-export const NavItem = styled.div`
+export const NavItem = styled.span`
+    display: block;
     height: 100%;
     line-height: 56px;
     padding: 0 20px;
     font-size: 16px;
     color: #333;
+    cursor: pointer;
     &.left{
         float: left;
     }

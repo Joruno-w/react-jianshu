@@ -10,7 +10,7 @@ class List extends Component{
         return (
             <div>
                 {list.map((it,i)=>(
-                    <Link to='/detail' key={i}>
+                    <Link to={`/detail/${it.id}`} key={i}>
                         <ListItem>
                             <img className='pic' src={it.imgUrl} alt=""/>
                             <ListInfo>
